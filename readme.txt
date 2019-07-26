@@ -1,5 +1,5 @@
 === WooCommerce Visibility by State using Geolocation ===
-Contributors: marcosgugeler
+Contributors: rezendemarcos
 Donate link: http://bit.ly/30uLsfs
 Tags: woocommerce
 Requires at least: 4.0

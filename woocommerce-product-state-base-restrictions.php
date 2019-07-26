@@ -2,8 +2,8 @@
 /*
 * Plugin Name: WooCommerce Visibility by State using Geolocation
 * Description: Restrict WooCommerce products in specific states of Brazil
-* Author: marcosgugeler
-* Author URI: https://gugelerit.com/
+* Author: Marcos Rezende
+* Author URI: https://www.linkedin.com/in/rezendemarcos/
 * Version: 1.0
 * Text Domain: woo-product-state-base-restrictions
 * WC requires at least: 3.0
