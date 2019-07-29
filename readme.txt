@@ -1,6 +1,6 @@
 === WooCommerce Visibility by State using Geolocation ===
 Contributors: rezendemarcos
-Donate link: http://bit.ly/30uLsfs
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5RJD5395AA47U&source=url
 Tags: woocommerce
 Requires at least: 4.0
 Tested up to: 5.1.1
