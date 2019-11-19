@@ -308,20 +308,25 @@ class Product_State_Restrictions {
 				return 'AC';
 			case 'Alagoas':
 				return 'AL';
+			case 'Amapá':
 			case 'Amapa':
 				return 'AP';
 			case 'Amazonas':
 				return 'AM';
 			case 'Bahia':
 				return 'BA';
+			case 'Ceará':
 			case 'Ceara':
 				return 'CE';
 			case 'Distrito Federal':
 				return 'DF';
+			case 'Espírito Santo':
 			case 'Espirito Santo':
 				return 'ES';
+			case 'Goiás':
 			case 'Goias':
 				return 'GO';
+			case 'Maranhão':
 			case 'Maranhao':
 				return 'MA';
 			case 'Mato Grosso':
@@ -334,10 +339,12 @@ class Product_State_Restrictions {
 				return 'PA';
 			case 'Paraiba':
 				return 'PB';
+			case 'Paraná':
 			case 'Parana':
 				return 'PR';
 			case 'Pernambuco':
 				return 'PE';
+			case 'Piauí':
 			case 'Piaui':
 				return 'PI';
 			case 'Rio de Janeiro':
@@ -346,12 +353,14 @@ class Product_State_Restrictions {
 				return 'RN';
 			case 'Rio Grande do Sul':
 				return 'RS';
+			case 'Rondônia':
 			case 'Rondonia':
 				return 'RO';
 			case 'Roraima':
 				return 'RR';
 			case 'Santa Catarina':
 				return 'SC';
+			case 'São Paulo':
 			case 'Sao Paulo':
 				return 'SP';
 			case 'Sergipe':
